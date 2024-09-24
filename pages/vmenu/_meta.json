@@ -1,0 +1,37 @@
+{
+    "vmenu": {
+        "title": "vMenu Docs",
+        "type": "separator"
+    },
+    "introduction": "Introduction",
+    "installation": "Installation",
+    "configuration": "Configuration",
+    "permissions": "Permissions",
+    "support": "Troubleshooting & Support",
+    "faq": "F.A.Q",
+    "changelog": "Changelog",
+    "more": {
+        "title": "More",
+        "type": "separator"
+    },
+    "github_link": {
+        "title": "Github Repo",
+        "href": "https://github.com/TomGrobbe/vMenu"
+    },
+    "forum_link": {
+        "title": "Forum Topic",
+        "href": "https://forum.fivem.net/t/vMenu/88868?u=vespura"
+    },
+    "download_link": {
+        "title": "Download vMenu",
+        "href": "https://github.com/TomGrobbe/vMenu/releases/latest/"
+    },
+    "patreon_link": {
+        "title": "Patreon ❤️",
+        "href": "https://www.patreon.com/vespura"
+    },
+    "mainweb_link": {
+        "title": "Main Website",
+        "href": "https://vespura.com/"
+    }
+}

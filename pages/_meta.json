@@ -1,0 +1,42 @@
+{
+  "*": {
+    "theme": {
+      "breadcrumb": false,
+      "footer": true,
+      "sidebar": true,
+      "toc": true,
+      "pagination": false,
+      "layout": "full"
+    }
+  },
+  "vmenu": {
+    "title": "vMenu",
+    "type": "page",
+    "display": "hidden"
+  },
+  "revamped": {
+    "title": "vMenu Revamped",
+    "type": "page",
+    "display": "hidden"
+  },
+  "mapi": {
+    "title": "MenuAPI",
+    "type": "page",
+    "display": "hidden"
+  },
+  "website_link": {
+    "title": "Website",
+    "type": "page",
+    "href": "https://vespura.com",
+    "newWindow": true
+  },
+  "projects": {
+    "title": "Projects",
+    "type": "menu",
+    "items": {
+      "vmenu": { "title": "vMenu Docs", "href": "/vmenu/introduction" },
+      "revamped": { "title": "vMenu Revamped Docs", "href": "/revamped/comingsoon" },
+      "mapi": { "title": "MenuAPI Docs", "href": "/mapi/introduction" }
+    }
+  }
+}
